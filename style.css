@@ -1,0 +1,10 @@
+html, body { padding: 0; margin: 0; font-family: sans-serif; color: #1f2744; background-color: #f3ece3; }
+body { width: 100%; max-width: 700px; margin: auto; }
+header { display: flex; padding: 0 1rem; margin-top: 2rem; justify-content: space-between; background: #ddd8d2; }
+header img { width: 100px; }
+nav { display: flex; align-items: center; justify-content: flex-end; }
+nav a { margin-right: 1rem; color: inherit; }
+nav a:hover { color: #5064a8; }
+main { background-color: white; padding: 2rem; }
+h1 { margin-top: 0; }
+footer { padding: 1rem 2rem; margin-bottom: 2rem; font-size: .8rem; line-height: 1; color: white; background-color: #39415e; }
